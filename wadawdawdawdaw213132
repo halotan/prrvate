@@ -1,0 +1,156 @@
+local library = loadstring(game:HttpGet(('https://pastebin.com/raw/FsJak6AT')))() -- It's obfuscated, I won't let you see my ugly coding skills. =)
+
+local w = library:CreateWindow("Reanimation")
+
+local b = w:CreateFolder("Reanimation")
+
+b:Button("R6 (Reanimate)",function()
+    loadstring(Game:HttpGetAsync("https://pastebin.com/raw/8FBb9eKW"))()
+end)
+
+local a = w:CreateFolder("Anti-Ragdoll Bypasses")
+
+a:Button("Better Anti-Ragdoll",function()
+    loadstring(game:HttpGet("https://ghostbin.co/paste/6xo7b3/raw", true))()
+end)
+
+a:Button("Good Anti-Ragdoll",function()
+    loadstring(game:HttpGet("https://pastebin.com/raw/574aXzQ7", true))()
+end)
+
+--most used Scripts
+
+local w = library:CreateWindow("Most Used")
+
+local m = w:CreateFolder("Most Used Scripts")
+
+m:Button("Nebula",function()
+    loadstring(game:HttpGetAsync("https://hastebin.com/raw/vifimepeci"))()
+end)
+
+m:Button("Star Glitcher",function()
+    loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/halotan/prrvate/main/lolAAAAA"))()
+end)
+
+m:Button("Universal (OP)",function()
+    loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/halotan/prrvate/main/wdadwad"))()
+end)
+
+m:Button("Shynth",function()
+    loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/halotan/prrvate/main/gorbsrbsr"))()
+end)
+--end most used
+
+local w = library:CreateWindow("Free")
+
+local f = w:CreateFolder("Scripts Free")
+
+f:Button("Incension",function()
+    loadstring(game:HttpGetAsync("https://hastebin.com/raw/ozovosojat"))()
+end)
+
+f:Button("Sutart",function()
+    loadstring(game:HttpGetAsync("https://hastebin.com/raw/izarocoqun"))()
+end)
+
+
+--Hat Scripts
+
+local w = library:CreateWindow("Hats")
+
+local h = w:CreateFolder("Scripts Hats")
+
+h:Button("Puppet Master",function()
+    loadstring(game:HttpGetAsync("https://hastebin.com/raw/ulopesuhun"))()
+end)
+
+h:Button("Fallen Anger",function()
+    loadstring(game:HttpGetAsync("https://hastebin.com/raw/gobawifico"))()
+end)
+
+h:Button("Neptunian V",function()
+    loadstring(game:HttpGetAsync("https://hastebin.com/raw/zefuvehaqi"))()
+end)
+
+h:Button("Hallow Slayer",function()
+    loadstring(game:HttpGetAsync("https://hastebin.com/raw/qexarecawe"))()
+end)
+
+h:Button("Kicksher X",function()
+    loadstring(game:HttpGetAsync("https://hastebin.com/raw/viqabivawa"))()
+end)
+
+h:Button("Kicknisher",function()
+    loadstring(game:HttpGetAsync("https://hastebin.com/raw/apajoguvok"))()
+end)
+
+h:Button("Banzai",function()
+    loadstring(game:HttpGetAsync("https://hastebin.com/raw/tufidekade"))()
+end)
+
+h:Button("Potato Man",function()
+    loadstring(game:HttpGetAsync("https://hastebin.com/raw/bidericura"))()
+end)
+
+h:Button("Spectrum",function()
+    loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/halotan/prrvate/main/lol"))()
+end)
+
+h:Button("Stick Beater",function()
+    loadstring(game:HttpGetAsync("https://hastebin.com/raw/epamazomij"))()
+end)
+
+h:Button("Spell Caster",function()
+    loadstring(game:HttpGetAsync("https://hastebin.com/raw/urihenecaj"))()
+end)
+
+h:Button("ShotGun",function()
+    loadstring(game:HttpGetAsync("https://hastebin.com/raw/aqozobazid"))()
+end)
+
+h:Button("The HotLine",function()
+    loadstring(game:HttpGetAsync("https://hastebin.com/raw/uzoyaxizet"))()
+end)
+
+h:Button("Rainbow X",function()
+    loadstring(game:HttpGetAsync("https://hastebin.com/raw/bufaweputu"))()
+end)
+
+h:Button("Katana",function()
+    loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/halotan/prrvate/main/dawdawdaw"))()
+end)
+--end hats Scripts
+
+--bypasses net
+
+local w = library:CreateWindow("Network Scripts")
+
+local h = w:CreateFolder("Network Scripts")
+
+n:Button("FilterWare Network",function()
+    loadstring(game:HttpGet(('http://spiderscript.xyz/scripts/FilterNet.txt'),true))()
+end)
+
+n:Button("Better Network",function()
+    loadstring(game:HttpGetAsync("https://pastebin.com/raw/XVLAV2b3"))()
+end)
+
+n:Button("Good But Better",function()
+    loadstring(game:HttpGetAsync("https://pastebin.com/raw/5tmrbj2i"))()
+end)
+--end settings
+
+local w = library:CreateWindow("Settings")
+
+local s = w:CreateFolder("Settings")
+
+s:Button("Rejoin",function()
+    loadstring(game:HttpGetAsync("https://pastebin.com/raw/k7te49c2"))()
+end)
+
+s:Button("Ultra Graphics",function()
+    loadstring(game:HttpGetAsync("https://pastebin.com/raw/R13kuW5i"))()
+end)
+
+
+d:DestroyGUI()
