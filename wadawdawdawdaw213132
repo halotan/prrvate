@@ -125,7 +125,7 @@ end)
 
 local w = library:CreateWindow("Network Scripts")
 
-local h = w:CreateFolder("Network Scripts")
+local n = w:CreateFolder("Network Scripts")
 
 n:Button("FilterWare Network",function()
     loadstring(game:HttpGet(('http://spiderscript.xyz/scripts/FilterNet.txt'),true))()
@@ -142,13 +142,13 @@ end)
 
 local w = library:CreateWindow("Settings")
 
-local s = w:CreateFolder("Settings")
+local q = w:CreateFolder("Settings")
 
-s:Button("Rejoin",function()
+q:Button("Rejoin",function()
     loadstring(game:HttpGetAsync("https://pastebin.com/raw/k7te49c2"))()
 end)
 
-s:Button("Ultra Graphics",function()
+q:Button("Ultra Graphics",function()
     loadstring(game:HttpGetAsync("https://pastebin.com/raw/R13kuW5i"))()
 end)
 
