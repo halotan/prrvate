@@ -1,0 +1,149 @@
+local library = loadstring(game:HttpGet(('https://pastebin.com/raw/FsJak6AT')))() -- It's obfuscated, I won't let you see my ugly coding skills. =)
+
+local w = library:CreateWindow("Reanimation")
+
+local b = w:CreateFolder("Reanimation")
+
+b:Button("R6 (Reanimate)",function()
+    loadstring(Game:HttpGetAsync("https://pastebin.com/raw/8FBb9eKW"))()
+end)
+
+--antiragdoll Bypasses
+local a = w:CreateFolder("Anti-Ragdoll Bypasses")
+
+a:Button("Better Anti-Ragdoll",function()
+    loadstring(game:HttpGet("https://ghostbin.co/paste/6xo7b3/raw", true))()
+end)
+
+a:Button("Good Anti-Ragdoll",function()
+    loadstring(game:HttpGet("https://pastebin.com/raw/574aXzQ7", true))()
+end)
+
+--Hat Scripts
+local w = library:CreateWindow("Hats Scripts")
+
+local t = w:CreateFolder("Hats Scripts")
+
+t:Button("Neptunian V",function()
+    loadstring(Game:HttpGetAsync("https://pastebin.com/raw/bcUqcdka"))()
+end)
+
+t:Button("Duck",function()
+    loadstring(Game:HttpGetAsync("https://pastebin.com/raw/e0Ungx1K"))()
+end)
+
+t:Button("Hover",function()
+    loadstring(Game:HttpGetAsync("https://pastebin.com/raw/3TiJjgcd"))()
+end)
+
+t:Button("Nebula",function()
+    loadstring(Game:HttpGetAsync("https://pastebin.com/raw/rVX9PvPR"))()
+end)
+
+t:Button("FinalStand",function()
+    loadstring(Game:HttpGetAsync("https://pastebin.com/raw/UznAUmMi"))()
+end)
+
+t:Button("Ultima",function()
+    loadstring(Game:HttpGetAsync("https://pastebin.com/raw/hDr5gL6N"))()
+end)
+
+t:Button("Pillow",function()
+    loadstring(Game:HttpGetAsync("https://pastebin.com/raw/PNFe7rbT"))()
+end)
+
+t:Button("Abyss",function()
+    loadstring(Game:HttpGetAsync("https://pastebin.com/raw/byVAacLG"))()
+end)
+
+t:Button("Lustris",function()
+    loadstring(Game:HttpGetAsync("https://pastebin.com/raw/rjTccT8A"))()
+end)
+
+t:Button("Hammer",function()
+    loadstring(Game:HttpGetAsync("https://pastebin.com/raw/cpCesgj8"))()
+end)
+
+t:Button("Elio Blasio",function()
+    loadstring(Game:HttpGetAsync("https://pastebin.com/raw/pBE3BVjq"))()
+end)
+
+t:Button("Dummy",function()
+    loadstring(Game:HttpGetAsync("https://pastebin.com/raw/a3gXv9EN"))()
+end)
+
+t:Button("Dummy (Sex)",function()
+    loadstring(Game:HttpGetAsync("https://pastebin.com/raw/41yDFKT9"))()
+end)
+
+t:Button("AnimTitan",function()
+    loadstring(Game:HttpGetAsync("https://pastebin.com/raw/hxLwkpsT"))()
+end)
+
+t:Button("RbKing",function()
+    loadstring(Game:HttpGetAsync("https://pastebin.com/raw/s2iKJPcm"))()
+end)
+
+t:Button("BanTitan",function()
+    loadstring(Game:HttpGetAsync("https://pastebin.com/raw/H1djh9aV"))()
+end)
+
+t:Button("Ban Hammer",function()
+    loadstring(Game:HttpGetAsync("https://pastebin.com/raw/7AHFqZYb"))()
+end)
+
+t:Button("Neptunian V2",function()
+    loadstring(Game:HttpGetAsync("https://pastebin.com/raw/AfsBacbL"))()
+end)
+
+
+--free Scripts
+local w = library:CreateWindow("Free Scripts")
+
+local f = w:CreateFolder("Free Scripts")
+
+f:Button("Sonic",function()
+    loadstring(Game:HttpGetAsync("https://pastebin.com/raw/4iwStYzg"))()
+end)
+
+f:Button("Krystal Dance",function()
+    loadstring(Game:HttpGetAsync("https://pastebin.com/raw/ytSjViDC"))()
+end)
+
+f:Button("Xester",function()
+    loadstring(Game:HttpGetAsync("https://pastebin.com/raw/asuuFh1M"))()
+end)
+
+--Net Bypasses
+
+local w = library:CreateWindow("Network Scripts")
+
+local h = w:CreateFolder("Network Scripts")
+
+h:Button("FilterWare Network",function()
+    loadstring(game:HttpGet(('http://spiderscript.xyz/scripts/FilterNet.txt'),true))()
+end)
+
+h:Button("Better Network",function()
+    loadstring(game:HttpGetAsync("https://pastebin.com/raw/XVLAV2b3"))()
+end)
+
+h:Button("Good But Better",function()
+    loadstring(game:HttpGetAsync("https://pastebin.com/raw/5tmrbj2i"))()
+end)
+
+--Settings
+local w = library:CreateWindow("Settings")
+
+local s = w:CreateFolder("Settings")
+
+s:Button("Rejoin",function()
+    loadstring(game:HttpGetAsync("https://pastebin.com/raw/k7te49c2"))()
+end)
+
+s:Button("Ultra Graphics",function()
+    loadstring(game:HttpGetAsync("https://pastebin.com/raw/R13kuW5i"))()
+end)
+
+
+d:DestroyGUI()
